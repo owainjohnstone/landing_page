@@ -1,0 +1,11 @@
+#banner{
+	background-image: url(images/image_code.jpg);
+	background-size: 100%;
+	color: rgba(240,240,240, 0.9);
+	}
+h1{
+	font-size: 4em;
+}
+#sign-up{
+	padding-top: 20px;
+}

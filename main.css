@@ -9,3 +9,8 @@ h1{
 #sign-up{
 	padding-top: 20px;
 }
+#contact{
+	padding: 50px 0 20px 0;
+	background: rgba(0, 0, 80, 0.9);
+	color: rgba(240,240,240, 0.9);
+}
